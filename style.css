@@ -1,0 +1,54 @@
+#nav{
+    border: none;
+    height: 50px;
+    width: auto;
+}
+#head{
+    border: none;
+    height: 300px;
+    margin-bottom: 30px;
+    width: auto;
+    padding: 50px;
+    margin: 50px;
+}
+#header{
+    text-align: center;
+    font-size: 70px;
+    padding-right: 200px;
+    padding-left: 200px;
+
+}
+#section{
+    border: none;
+    height: 300px;
+    width: auto;
+    margin-bottom: 80px;
+    margin: 200px;
+    border-radius: 4px;
+}
+#foot{
+    border: none;
+    height: 300px;
+    width: auto;
+}
+#foot1{
+    border: none;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+ul{
+    display: flex;
+    float: right;
+    margin-right: 50px;
+}
+li{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
